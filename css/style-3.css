@@ -1,13 +1,15 @@
 
 .container {
-    
-     background-image: url("../img/man-1.jpg");
-     
+
+	background-image: url("../img/man-1.jpg");
+	height: 70vw;
+	background-repeat: no-repeat;
+
 }
 
 
 .item {
     color: black;
-    left: 10%;
-    top: 80vw;
+	left: 10vh;
+	top: 80vw;
 }

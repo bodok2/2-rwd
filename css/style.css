@@ -12,12 +12,14 @@ body {
 }
 
 .container {
-    display: flex;
-    height: 100vh;
     background-size: contain;
     background-repeat: no-repeat;
     position: relative;
-    
+
+}
+
+.item {
+    text-align: center;
 }
 
 html,
@@ -29,14 +31,14 @@ body {
 
 h2 {
     text-transform: uppercase;
-    font-family: Verdana, Geneva, sans-serif;    
+    font-family: Verdana, Geneva, sans-serif;
     position: absolute;
     font-size: 1.5rem;
 }
 
 
-span  {
+span {
     font-size: rem;
     font-size: 2rem;
-    
+
 }

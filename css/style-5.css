@@ -1,9 +1,10 @@
 .container {
-    background-image: url("../img/man-1.jpg");
-   }
+	background-image: url("../img/man-1.jpg");
+	height: 100vh;
+}
 
 .item {
     color: white;
-    left: 0%;
-    top: 35vw;
+    color: white;
+	left: 15vh;
 }
