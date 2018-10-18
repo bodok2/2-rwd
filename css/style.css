@@ -12,13 +12,13 @@ body {
 }
 
 .container {
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 
 }
 .item {
-    word-wrap: break-word;
+    white-space:pre-wrap;
 }
 
 html,
@@ -33,10 +33,13 @@ h2 {
     font-family: Verdana, Geneva, sans-serif;
     position: absolute;
     font-size: 1.3rem;
+    white-space:nowrap;
+    line-height: 1.5em;
+    
 }
 
 
 span {
     font-size: 1.5rem;
-
+    white-space:pre-wrap;
 }

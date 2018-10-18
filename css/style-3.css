@@ -1,8 +1,8 @@
 .container {
 
     background-image: url("../img/man-1.jpg");
-    height: 70vw;
-    background-repeat: no-repeat;
+    height: 50vw;
+   
 
 }
 
@@ -13,11 +13,15 @@
     position: absolute;
     top: 120%;
     left: 50%;
-    margin-right: -50%;
+    margin-right: -70%;
     transform: translate(-50%, -50%);
+    text-align: center;
+    
+    
 }
 
-.item {
-    text-align: center;
+
+span {
+    white-space: nowrap;
 }
 

@@ -1,11 +1,14 @@
 .container {
     background-image: url("../img/man-2.jpg");
-	height: 80vh;
+	height: 70vh;
 }
 
 .item {
+
+
     color: white;
-	left: 55vw;
-	top: 15vw;
-	text-align: center;
+    position: absolute;               
+    top: 40%;
+    right: 50%;   
+    transform: translate(130%, -120%)
 }
