@@ -1,15 +1,23 @@
-
 .container {
 
-	background-image: url("../img/man-1.jpg");
-	height: 70vw;
-	background-repeat: no-repeat;
+    background-image: url("../img/man-1.jpg");
+    height: 70vw;
+    background-repeat: no-repeat;
 
 }
 
 
 .item {
     color: black;
-	left: 10vh;
-	top: 80vw;
+    margin: 0;
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
 }
+
+.item {
+    text-align: center;
+}
+

@@ -17,9 +17,8 @@ body {
     position: relative;
 
 }
-
 .item {
-    text-align: center;
+    word-wrap: break-word;
 }
 
 html,
@@ -33,12 +32,11 @@ h2 {
     text-transform: uppercase;
     font-family: Verdana, Geneva, sans-serif;
     position: absolute;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 
 span {
-    font-size: rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
 
 }
