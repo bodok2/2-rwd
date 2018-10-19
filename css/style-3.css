@@ -1,27 +1,24 @@
 .container {
 
-    background-image: url("../img/man-1.jpg");
-    height: 50vw;
-   
-
+	background-image: url("../img/man-1.jpg");
+	height: 70vw;
 }
 
 
 .item {
-    color: black;
-    margin: 0;
-    position: absolute;
-    top: 120%;
-    left: 50%;
-    margin-right: -70%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    
-    
+	color: black;
+	margin: 0;
+	position: absolute;
+	top: 120%;
+	left: 50%;
+	margin-right: -70%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+
+
 }
 
 
 span {
-    white-space: nowrap;
+	white-space: nowrap;
 }
-

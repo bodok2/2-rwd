@@ -1,15 +1,15 @@
 .container {
 	background-image: url("../img/man-1.jpg");
-    height: 100vh;
-	
+	height: 100vh;
+
 }
 
 .item {
-    
-    color: white;
-    position: absolute;
-    top: 50%;
-    left: 40%;
-    margin-right: -50%;
-    transform: translate(-60%, 0%);
+
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+	margin-right: -50%;
+	transform: translate(-60%, 0%);
 }
